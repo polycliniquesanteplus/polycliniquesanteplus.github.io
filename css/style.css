@@ -26,7 +26,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #FF0800;
+    color: #FDBE33;
     outline: none;
     text-decoration: none;
 }
@@ -38,8 +38,8 @@ a:focus {
     font-weight: 500;
     color: #777777;
     border-radius: 0;
-    border: 2px solid #FF0800;
-    box-shadow: inset 0 0 0 0 #FF0800;
+    border: 2px solid #FDBE33;
+    box-shadow: inset 0 0 0 0 #FDBE33;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
@@ -47,7 +47,7 @@ a:focus {
 
 .btn.btn-custom:hover {
     color: #20212B;
-    box-shadow: inset 0 0 0 30px #FF0800;
+    box-shadow: inset 0 0 0 30px #FDBE33;
 }
 
 .btn:focus,
@@ -100,7 +100,7 @@ a:focus {
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid #FF0800;
+    border-top: 5px solid #FDBE33;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
@@ -119,7 +119,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #FF0800;
+    background: #FDBE33;
     width: 44px;
     height: 44px;
     text-align: center;
@@ -141,7 +141,7 @@ a:focus {
 }
 
 .back-to-top:hover i {
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 
@@ -187,7 +187,7 @@ a:focus {
 
 .top-bar .text i {
     font-size: 16px;
-    color: #FF0800;
+    color: #FDBE33;
     margin-right: 5px;
 }
 
@@ -212,7 +212,7 @@ a:focus {
     width: 45px;
     height: 100%;
     font-size: 16px;
-    color: #FF0800;
+    color: #FDBE33;
     border-right: 1px solid rgba(255, 255, 255, .3);
 }
 
@@ -222,7 +222,7 @@ a:focus {
 
 .top-bar .social a:hover {
     color: #ffffff;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 @media (min-width: 992px) {
@@ -274,7 +274,7 @@ a:focus {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #FF0800;
+    color: #FDBE33;
     transition: none;
 }
 
@@ -435,7 +435,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #FF0800;
+    color: #FDBE33;
     background: rgba(256, 256, 256, .2);
     font-size: 22px;
     transition: .3s;
@@ -444,7 +444,7 @@ a:focus {
 .carousel .owl-nav .owl-prev:hover,
 .carousel .owl-nav .owl-next:hover {
     color: #ffffff;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .carousel .owl-nav .owl-prev {
@@ -539,7 +539,7 @@ a:focus {
 
 .page-header h2 {
     position: relative;
-    color: #FF0800;
+    color: #FDBE33;
     font-size: 60px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -553,7 +553,7 @@ a:focus {
     height: 2px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .page-header a {
@@ -564,7 +564,7 @@ a:focus {
 }
 
 .page-header a:hover {
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 .page-header a::after {
@@ -627,7 +627,7 @@ a:focus {
     font-size: 22px;
     font-weight: 600;
     text-transform: capitalize;
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 .section-header h2 {
@@ -689,9 +689,9 @@ a:focus {
 
 .about .about-tab .nav.nav-pills .nav-link:hover,
 .about .about-tab .nav.nav-pills .nav-link.active {
-    color: #FF0800;
+    color: #FDBE33;
     padding-bottom: 7px;
-    border-bottom: 3px solid #FF0800;
+    border-bottom: 3px solid #FDBE33;
 }
 
 .about .about-tab .tab-content {
@@ -736,7 +736,7 @@ a:focus {
 .service .service-icon i {
     position: relative;
     display: block;
-    color: #FF0800;
+    color: #FDBE33;
     font-size: 60px;
     line-height: 60px;
     margin-top: 5px;
@@ -765,7 +765,7 @@ a:focus {
     height: 40px;
     top: calc(50% - 20px);
     left: -1px;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .service .service-text h3 {
@@ -817,7 +817,7 @@ a:focus {
 
 .donate .donate-form {
     padding: 90px 30px;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .donate .donate-form .control-group {
@@ -860,7 +860,7 @@ a:focus {
 
 .donate .donate-form .btn.btn-custom:hover,
 .donate .donate-form .btn.btn-custom.active {
-    color: #FF0800;
+    color: #FDBE33;
     border: 1px solid #ffffff;
     box-shadow: inset 0 0 0 30px #ffffff;
 }
@@ -918,7 +918,7 @@ a:focus {
 .causes .progress .progress-bar {
     position: relative;
     width: 0px;
-    background: #FF0800;
+    background: #FDBE33;
     overflow: visible;
     transition: 2s;
 }
@@ -930,7 +930,7 @@ a:focus {
     height: 23px;
     display: inline-block;
     padding: 2px 6px;
-    background: #FF0800;
+    background: #FDBE33;
     color: #20212B;
 }
 
@@ -942,7 +942,7 @@ a:focus {
     top: 23px;
     left: calc(50% - 6px);
     border: 6px solid;
-    border-color: #FF0800 transparent transparent transparent;
+    border-color: #FDBE33 transparent transparent transparent;
 }
 
 .causes .progress-text {
@@ -981,7 +981,7 @@ a:focus {
 
 .causes .causes-btn .btn:last-child {
     color: #20212B;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .causes .causes-btn .btn:last-child:hover {
@@ -1013,7 +1013,7 @@ a:focus {
     margin-top: 10px;
     font-size: 60px;
     line-height: 60px;
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 .facts .facts-text {
@@ -1122,13 +1122,13 @@ a:focus {
     text-align: center;
     font-size: 14px;
     color: #4a4c70;
-    border: 2px solid #FF0800;
+    border: 2px solid #FDBE33;
     transition: .3s;
 }
 
 .team .team-social a:hover {
     color: #20212B;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .team .team-item:hover .team-text {
@@ -1203,7 +1203,7 @@ a:focus {
     width: 12px;
     height: 12px;
     border-radius: 0;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .testimonial .owl-dot.active {
@@ -1237,8 +1237,8 @@ nav .items .item{
     padding: 7px 25px;
     font-size: 18px;
     font-weight: 500;
-    color: #FF0800;
-    border: 2px solid #FF0800;
+    color: #FDBE33;
+    border: 2px solid #FDBE33;
     border-radius: 50px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -1247,7 +1247,7 @@ nav .items .item{
 nav .items .active,
 nav .items .item:hover{
     color: #fff;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .gallery{
@@ -1338,7 +1338,7 @@ nav .items .item:hover{
 }
 
 .details .icon{
-    color: #FF0800;
+    color: #FDBE33;
     font-size: 20px;
     cursor: pointer;
     /* background: red; */
@@ -1445,7 +1445,7 @@ nav .items .item:hover{
 
 .volunteer .volunteer-form {
     padding: 90px 30px;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .volunteer .volunteer-form .control-group {
@@ -1486,7 +1486,7 @@ nav .items .item:hover{
 }
 
 .volunteer .volunteer-form .btn.btn-custom:hover {
-    color: #FF0800;
+    color: #FDBE33;
     border: 1px solid #ffffff;
     box-shadow: inset 0 0 0 30px #ffffff;
 }
@@ -1561,7 +1561,7 @@ nav .items .item:hover{
     height: 40px;
     top: calc(50% - 20px);
     left: -1px;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .event .event-text h3 {
@@ -1651,7 +1651,7 @@ nav .items .item:hover{
 }
 
 .blog .blog-text h3 a:hover {
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 .blog .blog-text p {
@@ -1698,7 +1698,7 @@ nav .items .item:hover{
 
 .blog .pagination .page-link:hover,
 .blog .pagination .page-item.active .page-link {
-    color: #FF0800;
+    color: #FDBE33;
     background: #4a4c70;
 }
 
@@ -1817,8 +1817,8 @@ nav .items .item:hover{
 
 .single .single-tags a:hover {
     color: #ffffff;
-    background: #FF0800;
-    border-color: #FF0800;
+    background: #FDBE33;
+    border-color: #FDBE33;
 }
 
 .single .single-bio {
@@ -1896,7 +1896,7 @@ nav .items .item:hover{
 }
 
 .single .post-item .post-text a:hover {
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 .single .post-item .post-meta {
@@ -1938,14 +1938,14 @@ nav .items .item:hover{
     align-items: center;
     justify-content: center;
     color: #4a4c70;
-    background: #FF0800;
+    background: #FDBE33;
     font-size: 16px;
     transition: .3s;
 }
 
 .single .related-slider .owl-nav .owl-prev:hover,
 .single .related-slider .owl-nav .owl-next:hover {
-    color: #FF0800;
+    color: #FDBE33;
     background: #4a4c70;
 }
 
@@ -2011,7 +2011,7 @@ nav .items .item:hover{
 }
 
 .single .comment-text .btn:hover {
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .single .comment-form {
@@ -2040,7 +2040,7 @@ nav .items .item:hover{
 
 .single .comment-form input:focus,
 .single .comment-form textarea:focus {
-    border-color: #FF0800;
+    border-color: #FDBE33;
 }
 
 
@@ -2078,7 +2078,7 @@ nav .items .item:hover{
     height: 2px;
     bottom: 0;
     left: 0;
-    background: #FF0800;
+    background: #FDBE33;
 }
 
 .sidebar .sidebar-widget .search-widget {
@@ -2093,7 +2093,7 @@ nav .items .item:hover{
 
 .sidebar .search-widget input:focus {
     box-shadow: none;
-    border-color: #FF0800;
+    border-color: #FDBE33;
 }
 
 .sidebar .search-widget .btn {
@@ -2103,7 +2103,7 @@ nav .items .item:hover{
     height: 40px;
     padding: 0;
     font-size: 25px;
-    color: #FF0800;
+    color: #FDBE33;
     background: none;
     border-radius: 0;
     border: none;
@@ -2124,13 +2124,13 @@ nav .items .item:hover{
 
 .sidebar .tab-post .nav.nav-pills .nav-link {
     color: #4a4c70;
-    background: #FF0800;
+    background: #FDBE33;
     border-radius: 0;
 }
 
 .sidebar .tab-post .nav.nav-pills .nav-link:hover,
 .sidebar .tab-post .nav.nav-pills .nav-link.active {
-    color: #FF0800;
+    color: #FDBE33;
     background: #4a4c70;
 }
 
@@ -2171,7 +2171,7 @@ nav .items .item:hover{
     content: '\f105';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #FF0800;
+    color: #FDBE33;
     left: 1px;
 }
 
@@ -2198,8 +2198,8 @@ nav .items .item:hover{
 
 .single .tag-widget a:hover {
     color: #ffffff;
-    background: #FF0800;
-    border-color: #FF0800;
+    background: #FDBE33;
+    border-color: #FDBE33;
 }
 
 .sidebar .image-widget {
@@ -2242,7 +2242,7 @@ nav .items .item:hover{
     margin-bottom: 30px;
     font-size: 22px;
     font-weight: 700;
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 .footer .footer-link a {
@@ -2261,7 +2261,7 @@ nav .items .item:hover{
 }
 
 .footer .footer-link a:hover {
-    color: #FF0800;
+    color: #FDBE33;
     letter-spacing: 1px;
 }
 
@@ -2332,7 +2332,7 @@ nav .items .item:hover{
 }
 
 .footer .copyright p a:hover {
-    color: #FF0800;
+    color: #FDBE33;
 }
 
 @media (max-width: 767.98px) {
